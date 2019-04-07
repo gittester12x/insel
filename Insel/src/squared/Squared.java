@@ -17,6 +17,8 @@ public class Squared {
 		for( double n : array )
 			sum+= n;
 		
+		System.out.println("A new change has made!");
+		
 		return sum;
 	}
 }

@@ -27,6 +27,10 @@ public class Squared {
 		System.out.println("This is a development feature");
 		
 		
+		double y = 2;
+		
+		System.out.println(y);
+		
 		return sum;
 
 		

@@ -19,6 +19,9 @@ public class Squared {
 		
 		System.out.println("A new change has made!");
 		
-		return sum;
+		
+		System.out.println("Some little change!");
+
+		sum;
 	}
 }

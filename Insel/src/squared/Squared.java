@@ -19,9 +19,16 @@ public class Squared {
 		
 		System.out.println("A new change has made!");
 		
+<<<<<<< HEAD
 		System.out.println("Another big change!");
 		
 		
 		return sum;
+=======
+		
+		System.out.println("Some little change!");
+
+		sum;
+>>>>>>> refs/heads/master
 	}
 }

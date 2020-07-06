@@ -22,6 +22,6 @@ public class Squared {
 		
 		System.out.println("Some little change!");
 
-		sum;
+		return sum;
 	}
 }

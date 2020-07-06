@@ -24,6 +24,8 @@ public class Squared {
 		
 		System.out.println("Some little change!");
 		
+		System.out.println("This is a development feature")
+		
 		
 		return sum;
 
